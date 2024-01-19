@@ -21,6 +21,9 @@ return {
       renderer = {
         highlight_git = true,
         group_empty = true,
+        indent_markers = {
+          enable = true,
+        },
       },
       update_focused_file = {
         enable = true,
